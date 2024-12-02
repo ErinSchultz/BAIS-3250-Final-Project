@@ -9,7 +9,10 @@
 
 <body>
 
-<span style='font-size:100px;'>&#129299;</span><span style='font-size:100px;'>&#129312;</span>
+<span style='font-size:100px;'>&#128640;</span>
+<span style='font-size:100px">&#127909;'>&#129312;</span>
+<span style='font-size:100px;'>&#127916;</span>
+<span style='font-size:100px;'>&#127775;</span>
 
 </body>
 </html>
