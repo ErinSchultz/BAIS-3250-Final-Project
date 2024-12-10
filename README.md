@@ -28,7 +28,7 @@ IMDb: https://www.imdb.com/search/title/?title_type=feature&release_date=2000-01
 
 ## Code structure
 
-Using Python, we created three notebooks to complete this project. These are labeled using 00*..., 01*..., and 02\_... to indicate the order they should be run in. The first is scraping the IMDb website, second is the import of the Kaggle dataset and the merge of the raw IMDb data and this Kaggle dataset, and the third answers all business questions along with all EDA.
+Using Python, we created three notebooks to complete this project. These are labeled using 00*... and 01*... to indicate the order they should be run in. The first is scraping the IMDb website, second is the import of the Kaggle dataset and the merge of the raw IMDb data and this Kaggle dataset, and the third answers all business questions along with all EDA.
 
 ## What did I learn
 
