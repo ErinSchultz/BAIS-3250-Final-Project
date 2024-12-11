@@ -3,4 +3,3 @@ Data folder contains our scraped data, or data from Kaggle, as well as our integ
 NEED TO ADD
 
 - Data portion of our report
-- Visuals from each question as their own files
