@@ -4,8 +4,6 @@ Assets folder contains additional information to help users understand the conte
 
 ### A list of each feature, its data type, which of our two sources the feature came from, and then a brief description of what the feature is.
 
-## Data Dictionary
-
 | Field           | Type        | Source | Description                                                                                                         |
 | --------------- | ----------- | ------ | ------------------------------------------------------------------------------------------------------------------- |
 | ID              | Numeric     | Kaggle | Unique identifier for each movie                                                                                    |
