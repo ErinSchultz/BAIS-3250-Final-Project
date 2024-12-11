@@ -49,5 +49,5 @@ Our goal was to identify the streaming service that contains the highest rated, 
 
 ### List of major changes that happened in the project
 
-- 2024-11-13 eos Added new items
-- 2024-11-13 eos Deleted items
+- 2024-12-10 eos added 00 and 01 notebook files
+- 2024-12-10 rru added results PNGs
