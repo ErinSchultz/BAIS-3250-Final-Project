@@ -36,12 +36,14 @@ Our goal was to identify the streaming service that contains the highest rated, 
 
 ## To-Do list
 
-[X] Scrape the data
-[X] Create dataframes
-[X] Merge dataframes
-[X] Answer business questions
-[X] Create visualizes for each question
-[ ] Upload to Github
+## To-Do List
+
+- [x] Scrape the data
+- [x] Create dataframes
+- [x] Merge dataframes
+- [x] Answer business questions
+- [x] Create visualizations for each question
+- [ ] Upload to GitHub
 
 ---
 
