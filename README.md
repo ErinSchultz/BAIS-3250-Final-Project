@@ -43,7 +43,7 @@ Our goal was to identify the streaming service that contains the highest rated, 
 - [x] Merge dataframes
 - [x] Answer business questions
 - [x] Create visualizations for each question
-- [ ] Upload to GitHub
+- [x] Upload to GitHub
 
 ---
 
