@@ -54,7 +54,7 @@ Our goal was to identify the streaming service that contains the highest rated, 
 - 2024-10-20 eos & rru found datasources
 - 2024-10-25 eos & rru write initial project proposal
 - 2024-11-20 rru created dataframe from Kaggle dataset
-- 2024-11-15 eos completed scraping with assisstance of Professor Colbert
+- 2024-11-15 eos completed scraping with assistance of Professor Colbert
 - 2024-11-20 eos & rru merged Kaggle data with scraped data
 - 2024-11-22 eos & rru completed analysis portion of project
 - 2024-12-03 eos created GitHub repository
