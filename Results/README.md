@@ -1,1 +1,1 @@
-Results folder contains our report 
+Results folder contains our final report as well as our visualizations from the analysis portion of the report. 
